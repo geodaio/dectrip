@@ -1,0 +1,127 @@
+
+
+
+body {
+font-family: Arial;
+color: white;
+background-color: black;
+
+}
+img {
+max-width: 100%;
+  padding-top: 200px;
+  padding-bottom: 200px;
+padding-left: 0px;
+padding-right: 0px;
+}
+
+.w1 {
+	width: 60%;
+    height: 50%;
+	border: 1px solid black;
+margin: 10px auto;
+padding: 2px;
+box-shadow: -4px 4px 0px black;
+
+}
+
+
+
+a:link {
+  text-decoration: underline;
+}
+
+
+a:hover {
+text-decoration: underline;
+}
+
+hr {
+  color: #454545;
+width: 90%;
+}
+
+.w2 {
+	width: 70%;
+    height: 50%;
+	border: 1px solid black;
+margin: 10px auto;
+padding: 2px;
+box-shadow: -4px 4px 0px black;
+
+
+.UI {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+}
+
+.w2 {
+	width: 300px;
+    height: 500px;
+	border: 1px solid white;
+margin: 10px auto;
+padding: 2px;
+background-color: white;
+overflow: auto;
+
+}
+.m {
+color: #00ABFF; 
+padding: 10px}
+
+.v { 
+color: #FF0000; 
+text-align: right; 
+padding: 10px}
+
+iframe {
+        display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+::selection {
+  background: #2F2F2F;
+}
+
+/* stolen from bambosh.github.io, this junk is for the little content warning box  */
+
+.log {
+  width: auto;
+  margin: 5px auto;
+  padding: 1px;
+  align-self: left;
+  position: absolute;
+}
+.logButton {
+    font-family: Arial;
+ color: #888A85;
+   border: 1px solid black;
+background-color: black;
+font-size: 16px;
+text-decoration: underline;
+}
+.logButton::before {
+  content: "CLICK TO HIDE ";
+}
+.logHidden .logButton::before {
+  content: "CLICK TO SHOW ";
+}
+.log .logContent{
+  padding: 4px;
+  text-align: center;
+font-family: Arial;
+ text-align: left;
+background-color: black;
+color: white;
+}
+.logContent ul {
+  margin: 0 auto;
+  text-align: left;
+}
+.logHidden .logContent {
+    display: none;
+}
+
