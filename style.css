@@ -13,7 +13,7 @@ body {
 	margin:auto;
 }
 
-#imgcover, #img072, #img073, #img0822{
+#imgcover, #img072, #img073{
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
@@ -30,6 +30,10 @@ body {
 #img06{
 	display: block;
  	margin-left: auto;
+}
+
+#img0822{
+	padding-top:25%;
 }
 
 .titleouter{
