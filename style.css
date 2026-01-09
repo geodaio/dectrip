@@ -13,7 +13,7 @@ body {
 	margin:auto;
 }
 
-#imgcover, #img072, #img073, #img11, #img12{
+#imgcover, #img072, #img073, #img11{
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
@@ -23,7 +23,7 @@ body {
 	padding-top:10%;
 }
 
-#img00{
+#img00, #img12{
 	padding-top:15%;
 }
 
