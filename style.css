@@ -13,6 +13,13 @@ body {
 	margin:auto;
 }
 
+.class{
+	background-color: black;
+	width: 816px;
+	height: 1056px;
+	margin:auto;
+}
+
 img {
 max-width: 100%;
   padding-top: 200px;
