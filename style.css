@@ -19,6 +19,10 @@ body {
   	margin-right: auto;
 }
 
+#img00{
+	padding-top:15%;
+}
+
 .blank{
 	background-color: black;
 	width: 816px;
