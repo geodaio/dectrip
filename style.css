@@ -24,7 +24,12 @@ body {
 }
 
 #img02{
-	padding-top:10%;
+	padding-top:50%;
+}
+
+#img06{
+	display: block;
+ 	margin-left: auto;
 }
 
 .titleouter{
