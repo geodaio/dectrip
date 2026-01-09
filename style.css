@@ -2,15 +2,16 @@
 
 
 body {
-font-family: Arial;
-color: white;
-
+	font-family: Arial;
+	color: white;
 }
 
-#p1, #p2, #p3 {
+#p1, #p2, #p3, #p4 {
 	background-color: black;
 	width: 816px;
 	height: 1056px;
+	padding-top:3%;
+	padding-bottom:3%;
 }
 
 img {
