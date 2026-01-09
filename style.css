@@ -10,8 +10,7 @@ body {
 	background-color: black;
 	width: 816px;
 	height: 1056px;
-	padding-top:3%;
-	padding-bottom:3%;
+	margin:auto;
 }
 
 img {
