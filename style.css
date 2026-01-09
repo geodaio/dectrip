@@ -1,14 +1,18 @@
 
 
 
-#b {
+body {
 font-family: Arial;
 color: white;
-background-color: black;
-	width: 816px;
-		height: 1056px;
 
 }
+
+#p1, #p2, #p3 {
+	background-color: black;
+	width: 816px;
+	height: 1056px;
+}
+
 img {
 max-width: 100%;
   padding-top: 200px;
