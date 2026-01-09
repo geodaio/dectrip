@@ -23,6 +23,16 @@ body {
 	padding-top:15%;
 }
 
+.titleouter{
+	margin: 0;
+  	display: flex;
+  	height: 100%;
+  	align-items: center;
+}
+
+.titleinner{
+	width: 100%;
+}
 .blank{
 	background-color: black;
 	width: 816px;
