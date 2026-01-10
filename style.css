@@ -126,12 +126,15 @@ overflow: auto;
 }
 .m {
 color: #00ABFF; 
-padding: 10px}
+padding-left: 10%;
+padding-right: 10%;
+}
 
 .v { 
 color: #FF0000; 
 text-align: right; 
-padding: 10px}
+padding-left: 10%;
+padding-right: 10%;
 
 iframe {
         display: block;
